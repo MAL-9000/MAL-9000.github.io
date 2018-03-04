@@ -23,8 +23,11 @@ body {
 }
 
 .home-banner .banner-slogan {
-	width: 700px;
+	background-color: #02101D;
+	width: 750px;
+	opacity: 0.8;
 	position: absolute;
+	text-align: center;
 	letter-spacing: 5px;
 	font-size: 3rem;
 	font-weight: bold;
